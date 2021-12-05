@@ -1,4 +1,4 @@
 # WebProgramlamaProjesi
-Zeynep Betül Kalkanlı
-G191210044
+Zeynep Betül Kalkanlı /n
+G191210044 /n
 Web programlama dersi proje ödevidir.
