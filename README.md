@@ -1,4 +1,7 @@
-# WebProgramlamaProjesi
-Zeynep Betül Kalkanlı /n
-G191210044 /n
-Web programlama dersi proje ödevidir.
+# 2021-2022 EĞİTİM YILI 
+# GÜZ DÖNEMİ
+# WEB PROGRAMLAMA PROJE ÖDEVİ
+
+### Zeynep Betül Kalkanlı
+### G191210044
+### 2.ÖĞRETİM B GRUBU
